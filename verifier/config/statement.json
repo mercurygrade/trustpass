@@ -1,0 +1,30 @@
+[{"type":"AttributeInSet",
+"attributeTag":"countryOfResidence",
+"set":["AL","AT","BY","BA","BG","CZ","CY","HR","DK","EE","FI","FR","DE","GR","HU","IS","GB","IT","LV","LU","LT","MT","MD","ME","NL","MK","NO","PL","PT","RU","RO","RS","SI","SK","ES","CH","SE","TR","UA","KE","NG","AE","EG","BR","SG","KR"]},
+
+{"type":"AttributeInRange",
+"attributeTag":"dob",
+"lower":"18000101",
+"upper":"20051212"},
+
+{"type": "RevealAttribute",
+ "attributeTag": "firstName",
+ "value": "John"
+},
+
+{"type": "RevealAttribute",
+ "attributeTag": "lastName",
+ "value": "Doe"
+},
+{
+    "type": "AttributeInSet",
+    "attributeTag": "idDocIssuer",
+    "set": ["KE","HR","GB","DK"]
+},
+{
+    "type": "AttributeInSet",
+    "attributeTag": "idDocType",
+    "set": ["1","2","3","4"]
+}
+
+]

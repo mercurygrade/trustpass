@@ -1,0 +1,10 @@
+verifier/target/
+/verifierCargo.lock
+/.idea/
+/.vscode/
+/log/
+*.swp
+*.swo
+/.env
+/node_modules/
+

@@ -1,3 +1,5 @@
+Explainer Video: https://vimeo.com/802316527/0b9d0cc1c7
+
 # Gallery application
 
 Welcome to the Gallery Application, an example project included in this repository. The purpose of this project is to demonstrate how to use the Concordium Identity System (IDS) to create a secure and authorized webpage. This webpage only displays the images of the gallery items once the user has successfully completed a verification process.
